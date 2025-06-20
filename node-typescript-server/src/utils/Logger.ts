@@ -30,7 +30,7 @@ const formatter = winston.format.combine(
 
 const appLogger = winston.createLogger({
   levels: logLevels,
-  format: formatter,
+  // format: formatter,
   transports: [
     // Console Transport
     new winston.transports.Console({

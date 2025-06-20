@@ -1,0 +1,168 @@
+{"level":"info","message":"Server is running at http://localhost:5002","timestamp":"2025-06-20 12:59:07.659"}
+{"level":"info","message":"Connection to the database has been established successfully.","timestamp":"2025-06-20 12:59:07.892"}
+{"level":"info","message":{"body":{},"method":"GET","path":"/","query":{},"requestId":"vezsc5","timestamp":"2025-06-20T07:29:22.243Z","type":"REQUEST"},"timestamp":"2025-06-20 12:59:22.243"}
+{"level":"info","message":"Root endpoint accessed","timestamp":"2025-06-20 12:59:22.246"}
+{"level":"info","message":{"duration":"8ms","method":"GET","path":"/","requestId":"vezsc5","statusCode":200,"timestamp":"2025-06-20T07:29:22.252Z","type":"RESPONSE"},"timestamp":"2025-06-20 12:59:22.252"}
+{"level":"info","message":{"body":{},"method":"GET","path":"/favicon.ico","query":{},"requestId":"npjhie","timestamp":"2025-06-20T07:29:22.520Z","type":"REQUEST"},"timestamp":"2025-06-20 12:59:22.520"}
+{"level":"info","message":{"duration":"10ms","method":"GET","path":"/favicon.ico","requestId":"npjhie","statusCode":404,"timestamp":"2025-06-20T07:29:22.530Z","type":"RESPONSE"},"timestamp":"2025-06-20 12:59:22.530"}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":{"body":{},"method":"GET","path":"/","query":{},"requestId":"pdw3x9","timestamp":"2025-06-20T07:35:44.789Z","type":"REQUEST"}}
+{"level":"info","message":"Root endpoint accessed"}
+{"level":"info","message":{"duration":"11ms","method":"GET","path":"/","requestId":"pdw3x9","statusCode":304,"timestamp":"2025-06-20T07:35:44.800Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs","query":{},"requestId":"v4cr08","timestamp":"2025-06-20T07:35:48.783Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"8ms","method":"GET","path":"/api-docs","requestId":"v4cr08","statusCode":301,"timestamp":"2025-06-20T07:35:48.791Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/","query":{},"requestId":"5orixj","timestamp":"2025-06-20T07:35:48.797Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"4ms","method":"GET","path":"/api-docs/","requestId":"5orixj","statusCode":200,"timestamp":"2025-06-20T07:35:48.801Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui.css","query":{},"requestId":"7zbfer","timestamp":"2025-06-20T07:35:48.820Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-bundle.js","query":{},"requestId":"xciuno","timestamp":"2025-06-20T07:35:48.835Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-init.js","query":{},"requestId":"aeoub","timestamp":"2025-06-20T07:35:48.839Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"5ms","method":"GET","path":"/api-docs/swagger-ui-init.js","requestId":"aeoub","statusCode":200,"timestamp":"2025-06-20T07:35:48.844Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","query":{},"requestId":"c7o7w","timestamp":"2025-06-20T07:35:48.847Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"29ms","method":"GET","path":"/api-docs/swagger-ui-bundle.js","requestId":"xciuno","statusCode":200,"timestamp":"2025-06-20T07:35:48.864Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"62ms","method":"GET","path":"/api-docs/swagger-ui.css","requestId":"7zbfer","statusCode":200,"timestamp":"2025-06-20T07:35:48.882Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"104ms","method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","requestId":"c7o7w","statusCode":200,"timestamp":"2025-06-20T07:35:48.951Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/favicon-32x32.png","query":{},"requestId":"9s3kaj","timestamp":"2025-06-20T07:35:49.169Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"24ms","method":"GET","path":"/api-docs/favicon-32x32.png","requestId":"9s3kaj","statusCode":200,"timestamp":"2025-06-20T07:35:49.193Z","type":"RESPONSE"}}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/","query":{},"requestId":"9fz7x","timestamp":"2025-06-20T07:37:26.231Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"11ms","method":"GET","path":"/api-docs/","requestId":"9fz7x","statusCode":304,"timestamp":"2025-06-20T07:37:26.242Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui.css","query":{},"requestId":"gubrvg","timestamp":"2025-06-20T07:37:26.285Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-bundle.js","query":{},"requestId":"2zs05","timestamp":"2025-06-20T07:37:26.289Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","query":{},"requestId":"lzoq1t","timestamp":"2025-06-20T07:37:26.291Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"10ms","method":"GET","path":"/api-docs/swagger-ui.css","requestId":"gubrvg","statusCode":304,"timestamp":"2025-06-20T07:37:26.295Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"10ms","method":"GET","path":"/api-docs/swagger-ui-bundle.js","requestId":"2zs05","statusCode":304,"timestamp":"2025-06-20T07:37:26.299Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-init.js","query":{},"requestId":"swslcu","timestamp":"2025-06-20T07:37:26.304Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api-docs/swagger-ui-init.js","requestId":"swslcu","statusCode":200,"timestamp":"2025-06-20T07:37:26.307Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"20ms","method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","requestId":"lzoq1t","statusCode":304,"timestamp":"2025-06-20T07:37:26.311Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/favicon-32x32.png","query":{},"requestId":"sl56lb","timestamp":"2025-06-20T07:37:26.471Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"16ms","method":"GET","path":"/api-docs/favicon-32x32.png","requestId":"sl56lb","statusCode":304,"timestamp":"2025-06-20T07:37:26.487Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/users","query":{},"requestId":"twy9hf","timestamp":"2025-06-20T07:38:02.089Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"5ms","method":"GET","path":"/api/v1/users","requestId":"twy9hf","statusCode":404,"timestamp":"2025-06-20T07:38:02.094Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/users","query":{},"requestId":"bdn3w","timestamp":"2025-06-20T07:38:04.671Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"5ms","method":"GET","path":"/api/v1/users","requestId":"bdn3w","statusCode":404,"timestamp":"2025-06-20T07:38:04.676Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/users","query":{},"requestId":"q86ya","timestamp":"2025-06-20T07:38:06.278Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"5ms","method":"GET","path":"/api/v1/users","requestId":"q86ya","statusCode":404,"timestamp":"2025-06-20T07:38:06.283Z","type":"RESPONSE"}}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/","query":{},"requestId":"2xfpwr","timestamp":"2025-06-20T07:41:28.340Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"8ms","method":"GET","path":"/api-docs/","requestId":"2xfpwr","statusCode":304,"timestamp":"2025-06-20T07:41:28.348Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui.css","query":{},"requestId":"3xhn29","timestamp":"2025-06-20T07:41:28.382Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-bundle.js","query":{},"requestId":"xznwya","timestamp":"2025-06-20T07:41:28.385Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","query":{},"requestId":"nv128j","timestamp":"2025-06-20T07:41:28.389Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"13ms","method":"GET","path":"/api-docs/swagger-ui.css","requestId":"3xhn29","statusCode":304,"timestamp":"2025-06-20T07:41:28.395Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"14ms","method":"GET","path":"/api-docs/swagger-ui-bundle.js","requestId":"xznwya","statusCode":304,"timestamp":"2025-06-20T07:41:28.399Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-init.js","query":{},"requestId":"ixayf","timestamp":"2025-06-20T07:41:28.404Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api-docs/swagger-ui-init.js","requestId":"ixayf","statusCode":304,"timestamp":"2025-06-20T07:41:28.407Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"26ms","method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","requestId":"nv128j","statusCode":304,"timestamp":"2025-06-20T07:41:28.415Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/favicon-32x32.png","query":{},"requestId":"b5x4hh","timestamp":"2025-06-20T07:41:28.662Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"31ms","method":"GET","path":"/api-docs/favicon-32x32.png","requestId":"b5x4hh","statusCode":304,"timestamp":"2025-06-20T07:41:28.693Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/users","query":{},"requestId":"rhidh6","timestamp":"2025-06-20T07:41:33.477Z","type":"REQUEST"}}
+{"level":"info","message":"Fetching all users"}
+{"level":"info","message":{"duration":"5ms","method":"GET","path":"/api/v1/users","requestId":"rhidh6","statusCode":200,"timestamp":"2025-06-20T07:41:33.482Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{"createdAt":"2025-06-20T07:41:54.886Z","email":"pakkirappa@example.com","id":0,"name":"Pakkirappa","updatedAt":"2025-06-20T07:41:54.886Z"},"method":"POST","path":"/api/v1/users","query":{},"requestId":"f8flvz","timestamp":"2025-06-20T07:42:31.916Z","type":"REQUEST"}}
+{"level":"info","message":"New user created","user":{"createdAt":"2025-06-20T07:42:31.918Z","email":"pakkirappa@example.com","id":2,"name":"Pakkirappa","updatedAt":"2025-06-20T07:42:31.918Z"}}
+{"level":"info","message":{"duration":"4ms","method":"POST","path":"/api/v1/users","requestId":"f8flvz","statusCode":201,"timestamp":"2025-06-20T07:42:31.920Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/users","query":{},"requestId":"wj3j1e","timestamp":"2025-06-20T07:42:51.898Z","type":"REQUEST"}}
+{"level":"info","message":"Fetching all users"}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api/v1/users","requestId":"wj3j1e","statusCode":200,"timestamp":"2025-06-20T07:42:51.901Z","type":"RESPONSE"}}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/","query":{},"requestId":"8a8qd8","timestamp":"2025-06-20T07:44:37.178Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"9ms","method":"GET","path":"/api-docs/","requestId":"8a8qd8","statusCode":304,"timestamp":"2025-06-20T07:44:37.187Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui.css","query":{},"requestId":"hmrz69","timestamp":"2025-06-20T07:44:37.225Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-bundle.js","query":{},"requestId":"szfzcq","timestamp":"2025-06-20T07:44:37.229Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"9ms","method":"GET","path":"/api-docs/swagger-ui.css","requestId":"hmrz69","statusCode":304,"timestamp":"2025-06-20T07:44:37.234Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"11ms","method":"GET","path":"/api-docs/swagger-ui-bundle.js","requestId":"szfzcq","statusCode":304,"timestamp":"2025-06-20T07:44:37.240Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","query":{},"requestId":"yiqs0k","timestamp":"2025-06-20T07:44:37.246Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-init.js","query":{},"requestId":"ziocb3b","timestamp":"2025-06-20T07:44:37.256Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api-docs/swagger-ui-init.js","requestId":"ziocb3b","statusCode":200,"timestamp":"2025-06-20T07:44:37.259Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"17ms","method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","requestId":"yiqs0k","statusCode":304,"timestamp":"2025-06-20T07:44:37.263Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/favicon-32x32.png","query":{},"requestId":"i3duoc","timestamp":"2025-06-20T07:44:37.491Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"2ms","method":"GET","path":"/api-docs/favicon-32x32.png","requestId":"i3duoc","statusCode":304,"timestamp":"2025-06-20T07:44:37.493Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/","query":{},"requestId":"jcyouj","timestamp":"2025-06-20T07:45:14.110Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"2ms","method":"GET","path":"/api-docs/","requestId":"jcyouj","statusCode":304,"timestamp":"2025-06-20T07:45:14.112Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui.css","query":{},"requestId":"adekw7","timestamp":"2025-06-20T07:45:14.147Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-bundle.js","query":{},"requestId":"9jg49a","timestamp":"2025-06-20T07:45:14.162Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","query":{},"requestId":"5gm88b","timestamp":"2025-06-20T07:45:14.166Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-init.js","query":{},"requestId":"kphtqm","timestamp":"2025-06-20T07:45:14.206Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"7ms","method":"GET","path":"/api-docs/swagger-ui-init.js","requestId":"kphtqm","statusCode":304,"timestamp":"2025-06-20T07:45:14.213Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"108ms","method":"GET","path":"/api-docs/swagger-ui.css","requestId":"adekw7","statusCode":304,"timestamp":"2025-06-20T07:45:14.255Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"100ms","method":"GET","path":"/api-docs/swagger-ui-bundle.js","requestId":"9jg49a","statusCode":304,"timestamp":"2025-06-20T07:45:14.262Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"129ms","method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","requestId":"5gm88b","statusCode":304,"timestamp":"2025-06-20T07:45:14.295Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/favicon-32x32.png","query":{},"requestId":"o4skwj","timestamp":"2025-06-20T07:45:14.438Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"22ms","method":"GET","path":"/api-docs/favicon-32x32.png","requestId":"o4skwj","statusCode":304,"timestamp":"2025-06-20T07:45:14.460Z","type":"RESPONSE"}}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/","query":{},"requestId":"m8qvwh","timestamp":"2025-06-20T07:47:17.202Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"9ms","method":"GET","path":"/api-docs/","requestId":"m8qvwh","statusCode":304,"timestamp":"2025-06-20T07:47:17.211Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui.css","query":{},"requestId":"s55yw","timestamp":"2025-06-20T07:47:17.241Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-bundle.js","query":{},"requestId":"5fji6","timestamp":"2025-06-20T07:47:17.245Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"9ms","method":"GET","path":"/api-docs/swagger-ui.css","requestId":"s55yw","statusCode":304,"timestamp":"2025-06-20T07:47:17.250Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","query":{},"requestId":"c9remr","timestamp":"2025-06-20T07:47:17.254Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"12ms","method":"GET","path":"/api-docs/swagger-ui-bundle.js","requestId":"5fji6","statusCode":304,"timestamp":"2025-06-20T07:47:17.257Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"7ms","method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","requestId":"c9remr","statusCode":304,"timestamp":"2025-06-20T07:47:17.261Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-init.js","query":{},"requestId":"bd2m6f","timestamp":"2025-06-20T07:47:17.265Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"6ms","method":"GET","path":"/api-docs/swagger-ui-init.js","requestId":"bd2m6f","statusCode":200,"timestamp":"2025-06-20T07:47:17.271Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/favicon-32x32.png","query":{},"requestId":"qr52os","timestamp":"2025-06-20T07:47:17.383Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api-docs/favicon-32x32.png","requestId":"qr52os","statusCode":304,"timestamp":"2025-06-20T07:47:17.386Z","type":"RESPONSE"}}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/","query":{},"requestId":"97mq","timestamp":"2025-06-20T07:50:49.016Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"9ms","method":"GET","path":"/api-docs/","requestId":"97mq","statusCode":304,"timestamp":"2025-06-20T07:50:49.025Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui.css","query":{},"requestId":"xf8pr1h","timestamp":"2025-06-20T07:50:49.057Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-bundle.js","query":{},"requestId":"gwgzvu","timestamp":"2025-06-20T07:50:49.061Z","type":"REQUEST"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","query":{},"requestId":"p8zyt","timestamp":"2025-06-20T07:50:49.063Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"11ms","method":"GET","path":"/api-docs/swagger-ui.css","requestId":"xf8pr1h","statusCode":304,"timestamp":"2025-06-20T07:50:49.068Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"11ms","method":"GET","path":"/api-docs/swagger-ui-bundle.js","requestId":"gwgzvu","statusCode":304,"timestamp":"2025-06-20T07:50:49.072Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/swagger-ui-init.js","query":{},"requestId":"sqspn","timestamp":"2025-06-20T07:50:49.075Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"6ms","method":"GET","path":"/api-docs/swagger-ui-init.js","requestId":"sqspn","statusCode":304,"timestamp":"2025-06-20T07:50:49.081Z","type":"RESPONSE"}}
+{"level":"info","message":{"duration":"22ms","method":"GET","path":"/api-docs/swagger-ui-standalone-preset.js","requestId":"p8zyt","statusCode":304,"timestamp":"2025-06-20T07:50:49.085Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api-docs/favicon-32x32.png","query":{},"requestId":"997wg","timestamp":"2025-06-20T07:50:49.278Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"5ms","method":"GET","path":"/api-docs/favicon-32x32.png","requestId":"997wg","statusCode":304,"timestamp":"2025-06-20T07:50:49.283Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"POST","path":"/api/v1/upload","query":{},"requestId":"y6z2x","timestamp":"2025-06-20T07:51:03.479Z","type":"REQUEST"}}
+{"fileId":"63aef19f-4168-4545-b238-75e39c010141","level":"info","message":"File uploaded successfully"}
+{"level":"info","message":{"duration":"32ms","method":"POST","path":"/api/v1/upload","requestId":"y6z2x","statusCode":200,"timestamp":"2025-06-20T07:51:03.511Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/6bd82d3CD6DAFAEF79FDF37E","query":{},"requestId":"czv10e","timestamp":"2025-06-20T07:51:36.609Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api/v1/files/6bd82d3CD6DAFAEF79FDF37E","requestId":"czv10e","statusCode":404,"timestamp":"2025-06-20T07:51:36.612Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"pktzn","timestamp":"2025-06-20T07:54:34.139Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"4ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"pktzn","statusCode":404,"timestamp":"2025-06-20T07:54:34.143Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"78b4um","timestamp":"2025-06-20T07:54:36.914Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"22ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"78b4um","statusCode":404,"timestamp":"2025-06-20T07:54:36.936Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"2jgow7","timestamp":"2025-06-20T07:54:37.088Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"2jgow7","statusCode":404,"timestamp":"2025-06-20T07:54:37.091Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"grw36k","timestamp":"2025-06-20T07:54:37.433Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"grw36k","statusCode":404,"timestamp":"2025-06-20T07:54:37.436Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"6o1psp","timestamp":"2025-06-20T07:54:37.643Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"2ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"6o1psp","statusCode":404,"timestamp":"2025-06-20T07:54:37.645Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"0gkc66","timestamp":"2025-06-20T07:54:37.805Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"2ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"0gkc66","statusCode":404,"timestamp":"2025-06-20T07:54:37.807Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"0cwptr","timestamp":"2025-06-20T07:54:37.984Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"0cwptr","statusCode":404,"timestamp":"2025-06-20T07:54:37.987Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"7qvjvh","timestamp":"2025-06-20T07:54:38.151Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"7qvjvh","statusCode":404,"timestamp":"2025-06-20T07:54:38.154Z","type":"RESPONSE"}}
+{"level":"info","message":{"body":{},"method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","query":{},"requestId":"xuq6f","timestamp":"2025-06-20T07:54:38.319Z","type":"REQUEST"}}
+{"level":"info","message":{"duration":"3ms","method":"GET","path":"/api/v1/files/cbEa0eaa7cE5794092F76bF1","requestId":"xuq6f","statusCode":404,"timestamp":"2025-06-20T07:54:38.322Z","type":"RESPONSE"}}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
+{"level":"info","message":"Server is running at http://localhost:5002"}
+{"level":"info","message":"Connection to the database has been established successfully."}
